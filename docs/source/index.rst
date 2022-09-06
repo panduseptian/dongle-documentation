@@ -1,22 +1,13 @@
-Welcome to Lumache's documentation!
+Selamat Datang di dokumentasi aplikasi Secure Dongle Xignature
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+**Secure Dongle Apps** adalah aplikasi desktop untuk melakukan stamping dokumen secara bulk. Sehingga user tidak perlu melakukan Upload & Download dokumen secara online. Dengan teknologi Smart Token FIPS menjamin proses stamping tetap aman walaupun dilakukan pada desktop.
 
 Contents
 --------
 
 .. toctree::
 
+   requirements
+   installation
    usage
-   api
